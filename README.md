@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Pragya001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pragya001/Pragya001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Pragya
+👀 I’m interested in Spring Boot, Machine Learning, Azure, Cloud computing.
+🌱 I’m currently learning Azure, how kubernetes works and learning advance stuffs in Spring-boot.
+💞️ I’m looking to collaborate on open-source projects on any of the above mentioned tech stacks.
+📫 How to reach me : Email-Id : goyal.pragya001@gmail.com
